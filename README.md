@@ -3,19 +3,28 @@
 </p>
 
 <h4>Olá! Eu sou a Marya Ysabella 👋</h4>
+<hr style="border:0.5px solid #333; margin: 10px 0;" />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Foco+em+C+%2F+Estruturas+de+Dados+%2F+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Estudante+de+TI;Foco+em+C+%2F+Estruturas+de+Dados+%2F+Web;Apaixonada+por+café+☕" alt="Typing SVG" />
 </p>
 
 <hr>
+
+### 💡 Sobre mim
+- 🎓 Estudante de Sistemas de Informação na **UFU Monte Carmelo**   
+- 🎮 Apaixonada por **Front-end e Robótica**  
+- 🌱 Sempre buscando aprendizado novo e **preparação para novos projetos**
+---
 
 <h3>🔧 Linguagens</h3>
 <p >
   <img height="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="23"/>
+
   <!-- Adicione outras linguagens aqui -->
 </p>
 
-<hr>
+---
 
 <div>
   <h3>📊 Métricas do GitHub</h3>
@@ -25,7 +34,7 @@
     <img height="180em" src="https://streak-stats.demolab.com/?user=ysabellyysa&theme=tokyonight&hide_border=false"/>
   </a>
 </div>
-<hr>
+<hr style="border:0.5px solid #333; margin: 10px 0;" />
 
 <h3>✉️ Contato</h3>
 <p align="center">
