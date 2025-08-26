@@ -36,8 +36,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 <hr>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ysabellyysa/ysabellyysa/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 <p>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajU3aGdwZDc1NzJxZDZkbmRxM2xlOGt1Zjg4aWxlZmdqM290Nng3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jAe22Ec5iICCk/giphy.gif" width="200px"/>
 </p>
