@@ -5,7 +5,7 @@
 <h4>Olá! Eu sou Marya Ysabella 👋</h4>
 <hr style="border:0.5px solid #333; margin: 10px 0;" />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Estudante+de+TI;Foco+em+C+%2F+Estruturas+de+Dados+%2F+Web;Apaixonada+por+café+☕" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Foco+em+C+%2F+Estruturas+de+Dados+%2F+Web;Apaixonada+por+café+☕" alt="Typing SVG" />
 </p>
 
 <hr>
