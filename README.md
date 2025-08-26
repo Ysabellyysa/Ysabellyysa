@@ -16,7 +16,7 @@
 - 🌱 Sempre buscando aprendizado novo e **preparação para novos projetos**
 ---
 
-<h3>🔧 Linguagens</h3>
+<h3>🔧 Linguagens e Ferramentas </h3>
 <p >
   <img height="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="23"/>
