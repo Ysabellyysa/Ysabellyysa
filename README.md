@@ -54,5 +54,5 @@
   <img src="https://raw.githubusercontent.com/ysabellyysa/ysabellyysa/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 <p>
-  <img src="https://i.imgur.com/aHzhCGa.gif" width="200px"/>
+  <img src="https://i.imgur.com/aHzhCGa.gif" width="300px"/>
 </p>
