@@ -14,6 +14,7 @@
 - 🎓 Estudante de Sistemas de Informação na **UFU Monte Carmelo**   
 - 🎮 Apaixonada por **Front-end e Robótica**  
 - 🌱 Sempre buscando aprendizado novo e **preparação para novos projetos**
+- 💻 Estudando e aprofundando em **Back-End**
 ---
 
 <h3>🔧 Linguagens e Ferramentas </h3>
